@@ -19,6 +19,7 @@ public class BoxTester {
         }
         return false;
     }
+    //when的寫法是??
     //box5 Box5: 長39.5，寬27.5，高23 (cm)
 //    public boolean validate1(float length, float width, int height) {
 //        this.length=length;
