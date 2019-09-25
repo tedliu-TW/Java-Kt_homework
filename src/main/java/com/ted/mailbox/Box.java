@@ -13,7 +13,8 @@ public class Box {
         System.out.println("Please enter object's height:");
         int height = scanner.nextInt();
         box.validate(length,width,height);
-        box.validate1(length,width,height);
+
+
 
 
 
